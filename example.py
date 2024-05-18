@@ -94,6 +94,8 @@ while place_order:
             print(f"What {menu_category_name} item would you like to order?")
             i = 1
             menu_items = {}
+            print(menu_category_name)
+            print("-------|--------------------------|-------")
             print("Item # | Item name                | Price")
             print("-------|--------------------------|-------")
             for key, value in menu[menu_category_name].items():
