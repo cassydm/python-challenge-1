@@ -125,7 +125,7 @@ while place_order:
             # 3. Check if the customer typed a number
 
                 # Convert the menu selection to an integer
-
+#done
 
                 # 4. Check if the menu selection is in the menu items
 
@@ -137,7 +137,7 @@ while place_order:
 
                     # Check if the quantity is a number, default to 1 if not
 
-
+#111
                     # Add the item name, price, and quantity to the order list
 
 
@@ -156,7 +156,7 @@ while place_order:
     while True:
         # Ask the customer if they would like to order anything else
         keep_ordering = input("Would you like to keep ordering? (Y)es or (N)o ")
-
+#222222
         # 5. Check the customer's input
 
                 # Keep ordering
